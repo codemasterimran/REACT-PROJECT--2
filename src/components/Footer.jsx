@@ -11,13 +11,13 @@ const Footer = () => {
       <div>
         <h5>Follow Us</h5>
         <div>
-          <a href="https://youtube.com/6packprogrammer" target={"blank"}>
-            Youtube
+          <a href="https://www.linkedin.com/in/imran-wani-8644b620a/r" target={"blank"}>
+            LINKEDIN
           </a>
-          <a href="https://instagram.com/meabhisingh" target={"blank"}>
+          <a href="https://www.instagram.com/_imranwani_/" target={"blank"}>
             Instagram
           </a>
-          <a href="https://github.com/meabhisingh" target={"blank"}>
+          <a href="https://github.com/codemasterimran" target={"blank"}>
             Github
           </a>
         </div>
